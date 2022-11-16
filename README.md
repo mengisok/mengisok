@@ -4,8 +4,7 @@
 
 🧐 Now studying:  
 - Java  
-- Machine learning  
-- Front-end  
+- Machine learning    
 - DSP & FPGA  
 
 ✍🏻 [Blog](https://mengisok.github.io)  
