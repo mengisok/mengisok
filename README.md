@@ -6,7 +6,7 @@
 🧐 Now studying:  
 - Java  
 - Machine learning    
-- DSP & FPGA  
+- FPGA  
 
 ✍🏻 [Blog](https://mengisok.github.io)  
 🌱 [LinkedIn](https://www.linkedin.com/in/mengisok/)
