@@ -3,10 +3,10 @@
 👩🏻‍🎓 Master's student
 - Major in Electronic Information  
 
-🧐 Now studying:  
+🧐 Studying  
 - Java  
 - Machine learning    
-- FPGA  
+- Electronics, FPGA  
 
 ✍🏻 [Blog](https://mengisok.github.io)  
 🌱 [LinkedIn](https://www.linkedin.com/in/mengisok/)  
