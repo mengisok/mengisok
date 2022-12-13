@@ -1,6 +1,7 @@
 ### Hi, I'm Meng  
 
-👩🏻‍🎓 Major in Electronic Information  
+👩🏻‍🎓 Master's student
+- Major in Electronic Information  
 
 🧐 Now studying:  
 - Java  
@@ -8,6 +9,7 @@
 - DSP & FPGA  
 
 ✍🏻 [Blog](https://mengisok.github.io)  
+🌱 [LinkedIn](https://www.linkedin.com/in/mengisok/)
 📫 [E-mail](mailto:hanmengisok@gmail.com)
 <!--
 **mengisok/mengisok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
