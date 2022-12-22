@@ -1,7 +1,7 @@
 ### Hi, I'm Meng  
 
 👩🏻‍🎓 Master's student
-- Major in Electronic Information  
+- Major in Electronics  
 
 🧐 Studying  
 - Java  
