@@ -1,9 +1,9 @@
 ### Hi, I'm Meng  
 
-👩🏻‍🎓 Master's student
-- Major in Electronics  
+👩🏻‍🎓 Master's student  
+⚡ Major in Electronics  
 
-🧐 Studying  
+Studying:  
 - Java  
 - Machine learning    
 - Electronics, FPGA  
