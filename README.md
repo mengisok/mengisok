@@ -1,11 +1,11 @@
 ### Hi, I'm Meng  
 
-👩🏻‍🎓 Master's student. Major in Electronics  
+👩🏻‍🎓 Master's student. Major in Electronics.  
 
 Studying:  
 - Java  
 - Machine learning    
-- Electronics, FPGA  
+- FPGA  
 
 ✍🏻 [Blog](https://mengisok.github.io)  
 🌱 [LinkedIn](https://www.linkedin.com/in/mengisok/)  
