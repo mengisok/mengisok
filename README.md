@@ -5,7 +5,7 @@
 Studying:  
 - Java  
 - Machine learning    
-- FPGA  
+- PCB & FPGA  
 
 ✍🏻 [Blog](https://mengisok.github.io)  
 🌱 [LinkedIn](https://www.linkedin.com/in/mengisok/)  
