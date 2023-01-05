@@ -4,7 +4,7 @@
 
 Studying:  
 - Java Backend 
-- Machine learning    
+- Machine Learning    
 - PCB & FPGA  
 
 ✍🏻 [Blog](https://mengisok.github.io)  
