@@ -3,7 +3,7 @@
 👩🏻‍🎓 Master's student in Electronics   
 
 Studying:  
-- Java  
+- Java Backend 
 - Machine learning    
 - PCB & FPGA  
 
