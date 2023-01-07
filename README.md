@@ -1,11 +1,11 @@
 ### Hi, I'm Meng  
 
-👩🏻‍🎓 Master's student in Electronics   
+👩🏻‍🎓 Studying for master’s degree in Electronics   
 
-Studying:  
 - Java Backend 
 - Machine Learning    
-- PCB & FPGA  
+- PCB & FPGA 
+- Linux 
 
 ✍🏻 [Blog](https://mengisok.github.io)  
 🌱 [LinkedIn](https://www.linkedin.com/in/mengisok/)  
