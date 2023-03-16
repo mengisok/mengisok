@@ -1,12 +1,6 @@
 ### Hi, I'm Meng  
 
-👩🏻‍🎓 Studying for master’s degree in Electronics   
-
-- Java Backend 
-- Machine Learning    
-- PCB & FPGA 
-- Linux 
-
+👩🏻‍🎓 Master candidate in Electronics Information Engineering   
 ✍🏻 [Blog](https://mengisok.github.io)  
 🌱 [LinkedIn](https://www.linkedin.com/in/mengisok/)  
 📫 [E-mail](mailto:hanmengisok@gmail.com)
